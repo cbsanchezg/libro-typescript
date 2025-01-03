@@ -1,0 +1,1 @@
+console.log(Number(5).toString(2)) // 101

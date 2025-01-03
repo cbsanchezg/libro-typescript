@@ -1,0 +1,6 @@
+console.log(Number.MAX_SAFE_INTEGER);    // 9007199254740991 
+console.log(Number.MAX_SAFE_INTEGER+1);  // 9007199254740992
+console.log(Number.MAX_SAFE_INTEGER+2);  // 9007199254740992
+console.log(Number.MAX_SAFE_INTEGER+3);  // 9007199254740994 
+console.log(Number.MAX_SAFE_INTEGER+4);  // 9007199254740996
+console.log(Number.MAX_SAFE_INTEGER+5);  // 9007199254740996

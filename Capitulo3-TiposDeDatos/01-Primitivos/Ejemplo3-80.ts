@@ -1,0 +1,1 @@
+console.log('lección'.localeCompare('LECCION', 'es', { sensitivity: 'base' })); // 0
